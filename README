@@ -1,0 +1,2 @@
+Place this script into a directory that contains subdirs with screenshots. 
+All png files will be renamed to subdir name.
